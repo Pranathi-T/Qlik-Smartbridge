@@ -82,7 +82,7 @@ Two interactive dashboards were created to visualize the key insights:
    - Number of Passengers by Gender
    - Number of On-Time Flights
    - Top 5 Number of Passengers Traveled (Month-wise)
-[Screenshot 2024-08-12 110745](https://github.com/user-attachments/assets/b24ee15d-229b-49b4-a127-c5bd07ebbfe2)
+![Screenshot 2024-08-12 110745](https://github.com/user-attachments/assets/b24ee15d-229b-49b4-a127-c5bd07ebbfe2)
 
 2. **Dashboard 2:**
    - Top 3 Months Flight Status
