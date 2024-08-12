@@ -100,7 +100,3 @@ The project successfully demonstrated how Qlik can be utilized to extract valuab
 
 - **Dataset:** The synthetic airline data was obtained from Kaggle.
 - **Tool:** Qlik Sense was used for data visualization and analysis.
-
----
-
-Feel free to modify this template as needed to better fit your project.
