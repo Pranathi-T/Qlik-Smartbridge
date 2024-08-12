@@ -82,28 +82,19 @@ Two interactive dashboards were created to visualize the key insights:
    - Number of Passengers by Gender
    - Number of On-Time Flights
    - Top 5 Number of Passengers Traveled (Month-wise)
+[Screenshot 2024-08-12 110745](https://github.com/user-attachments/assets/b24ee15d-229b-49b4-a127-c5bd07ebbfe2)
 
 2. **Dashboard 2:**
    - Top 3 Months Flight Status
    - Age Group & Gender-wise Passenger Distribution
    - Continent-wise Flight Status
    - Number of Passengers by Nationality
+![Screenshot 2024-08-12 110834](https://github.com/user-attachments/assets/06c3245d-181a-4631-bee6-8323ab173ef3)
+
 
 ## Conclusion
 
 The project successfully demonstrated how Qlik can be utilized to extract valuable insights from synthetic airline data, which can be used to drive strategic decisions in revenue optimization, operational efficiency, and customer experience enhancement. These insights provide a strong foundation for airlines, airports, and stakeholders to improve operations, increase profitability, and enhance customer satisfaction.
-
-## Recommendations
-
-- Implement dynamic pricing strategies based on customer segments and travel demand.
-- Optimize resource allocation at airports during peak periods to minimize delays and improve efficiency.
-- Focus on personalized customer experiences to increase loyalty and retention.
-
-## How to Use This Repository
-
-1. Clone the repository.
-2. Explore the provided Qlik Sense project files to view and interact with the dashboards.
-3. Refer to the dataset for additional analysis or to replicate the study.
 
 ## Acknowledgements
 
