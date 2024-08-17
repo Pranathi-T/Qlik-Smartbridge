@@ -61,18 +61,25 @@ After data cleaning, additional fields were added to enhance the analysis, inclu
 
 ## Key Findings
 
-### Revenue Optimization
-- High-demand travel periods and top destinations were identified, allowing for more targeted pricing strategies.
-- Customer segments based on purchasing behavior provided insights for more effective marketing campaigns.
-
-### Operational Efficiency
-- Bottlenecks in luggage handling during peak hours were detected, leading to recommendations for improved resource allocation.
-- Operational strategies were proposed to optimize airport efficiency.
-
-### Customer Experience Enhancement
-- Sentiment analysis of customer feedback revealed common pain points, guiding the development of personalized services.
-- Strategies were developed to enhance customer satisfaction and loyalty.
-
+The Overview of Passenger Statistics dashboard provides a highlevel summary of
+essential passenger metrics, crucial for quickly assessing the airline’s overall performance. It
+displays the total number of passengers, which helps gauge the scale of airline operations and
+the volume of customer engagement. The gender distribution metric breaks down passengers
+into male and female categories, offering insights into demographic trends and aiding in
+targeted marketing strategies.
+The flight status breakdown is particularly significant, categorizing flights into On Time,
+Delayed, and Canceled. This visualization allows stakeholders to swiftly identify the proportion
+of flights meeting performance standards versus those falling short. A high percentage of
+delayed or canceled flights could signal operational inefficiencies or customer service issues,
+necessitating immediate attention.
+The InDepth Analysis of Flight Status and Demographics dashboard offers a detailed
+examination of various aspects of airline performance and passenger characteristics. It tracks
+flight status over a threemonth period, revealing trends in delays, cancellations, and ontime
+arrivals. This temporal analysis helps identify patterns, such as recurring delays on specific
+routes or during certain periods, enabling targeted interventions to improve punctuality.
+Continental flight status distribution highlights regional performance variations, identifying
+which continents experience higher rates of delays or cancellations.
+This geographic insight can guide strategic decisions related to rou
 ## Dashboards
 
 Two interactive dashboards were created to visualize the key insights:
